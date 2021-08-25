@@ -9,7 +9,7 @@
 			"Joinability": "joinable_by_friends",
 			"hostName": "lukeeey21",
 			"ownerId": "2535459632708673",
-			"rakNetGUID": "12086757452473960266",
+			"rakNetGUID": "9467688891944769871",
 			"version": "1.17.11",
 			"levelId": "mUUmYap7EQA=",
 			"worldName": "My World",
@@ -26,13 +26,13 @@
 				{
 					"ConnectionType": 1,
 					"HostIpAddress": "10.202.0.2",
-					"HostPort": 57045,
+					"HostPort": 53144,
 					"RakNetGUID": ""
 				},
 				{
 					"ConnectionType": 1,
 					"HostIpAddress": "192.168.68.103",
-					"HostPort": 57045,
+					"HostPort": 53144,
 					"RakNetGUID": ""
 				}
 			]
@@ -49,9 +49,9 @@
 			"properties": {
 				"system": {
 					"active": true,
-					"connection": "ea88e67c-687c-4d1c-8621-2509e8a9750f",
+					"connection": "c24fe8c5-ab89-400e-a7dd-ffa7391d02bb",
 					"subscription": {
-						"id": "845CC784-7348-4A27-BCDE-C083579DD113",
+						"id": "71E6B2FD-D31F-43EB-BA72-E8C3EABDB505",
 						"changeTypes": [
 							"everything"
 						]
