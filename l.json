@@ -9,19 +9,19 @@
       "Joinability":"joinable_by_friends",
       "hostName":"Luke's Test Server!!",
       "ownerId":"2535459632708673",
-      "rakNetGUID":"12086757452473960266",
+      "rakNetGUID":"24125835162016602865",
       "version":"1.17.11",
       "levelId":"mUUmYap7EQA=",
       "worldName":"My World",
-      "worldType":"Survival",
+      "worldType":"Surival",
       "protocol":448,
       "MemberCount":0,
-      "MaxMemberCount":8,
+      "MaxMemberCount":20,
       "BroadcastSetting":2,
       "LanGame":true,
       "OnlineCrossPlatformGame":true,
       "CrossPlayDisabled":false,
-      "TitleId":0,
+      "TitleId":"00000000441cc96b",
       "SupportedConnections":[
         {
           "ConnectionType":2,
@@ -30,25 +30,25 @@
           "RakNetGUID":""
         }
       ]
-    }
-  },
-  "members":{
-    "me":{
-      "constants":{
-        "system":{
-          "xuid":"2535459632708673",
-          "initialize":true
-        }
-      },
-      "properties":{
-        "system":{
-          "active":true,
-          "connection":"ea88e67c-687c-4d1c-8621-2509e8a9750f",
-          "subscription":{
-            "id":"845CC784-7348-4A27-BCDE-C083579DD113",
-            "changeTypes":[
-              "everything"
-            ]
+    },
+    "members":{
+      "me":{
+        "constants":{
+          "system":{
+            "xuid":"2535459632708673",
+            "initialize":true
+          }
+        },
+        "properties":{
+          "system":{
+            "active":true,
+            "connection":"babc9a12-4d07-4130-afb1-5f8cb032f54a",
+            "subscription":{
+              "id":"845CC784-7348-4A27-BCDE-C083579DD113",
+              "changeTypes":[
+                "everything"
+              ]
+            }
           }
         }
       }
